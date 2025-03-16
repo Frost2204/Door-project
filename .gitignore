@@ -1,0 +1,7 @@
+# Ignore auto-generated Unity files
+Library/
+Logs/
+Temp/
+obj/
+Build/
+UserSettings/
